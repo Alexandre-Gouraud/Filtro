@@ -34,7 +34,7 @@ de filtres qui s'ajoutent sans jamais toucher au cœur.
 ### Cloner et compiler
 
 ```bash
-git clone https://github.com/Alexandre-git-SDV/Filtro.git
+git clone https://github.com/Alexandre-Gouraud/Filtro.git
 cd Filtro/Filtro_Rust
 cargo build --release
 ```
